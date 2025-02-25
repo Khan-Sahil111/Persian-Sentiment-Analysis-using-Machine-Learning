@@ -1,0 +1,11 @@
+scikit-learn
+nltk
+hazm
+joblib
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+streamlit  # (If deploying as a web app)
+flask  # (If deploying as a web service)
